@@ -1,8 +1,5 @@
 # GIS-syed-jafri-theorem
 
-
-# Graduate-Level GIS Research Paper Ideas (Technical Focus)
-
 At a graduate level with a technical focus, the stronger topics are the ones that make a methods contribution, not just apply existing tools.
 
 ## GeoAI & Deep Learning
